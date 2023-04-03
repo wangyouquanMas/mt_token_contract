@@ -545,10 +545,10 @@
 			]
 		},
 		"MyToken.sol": {
-			"keccak256": "0x2055c12ca38a885ab54b1588d1253c20deb82eeddaf1564ed32826648618eadb",
+			"keccak256": "0xd3eede46e382c8eef994e59d05ee44ae4ab77d841529574b73137beffb9cd9ba",
 			"urls": [
-				"bzz-raw://14a26299336458f2ae8e685eeb8215c826f3093feb9e1e8e3e738026dd098cb8",
-				"dweb:/ipfs/QmQXCCV1xyFfd2qisSK2wkNRzZJRKkfM6eVsfE8J6AaXyU"
+				"bzz-raw://e68c91d78e666a3c347e357227e0482fa0b7b26ef684bb115e75b0aa12faf3bf",
+				"dweb:/ipfs/QmZeU55rbD4EBSzSxNCLc4PUZNrS52q6BC72jSnr2vDm3X"
 			]
 		}
 	},

@@ -14,6 +14,10 @@ contract MyToken is ERC20,Ownable,Pausable{
         _mint(to,amount);
     }
 
+    function decimals() public view virtual override returns (uint8) {
+        return 2;
+    }
+
     //2. 添加燃烧代币功能
     //目的：意味着从总供应量中减少一定数量的代币。通常，燃烧代币用于控制通胀或增加代币价值
     function burn(uint256 amount) public{
